@@ -1,4 +1,10 @@
 body {
-  background-color: black
-  
+  background-color:#ffc2bb
+}
+img{
+  position: relative;
+  width: 400px;
+  height: 400px;
+  left: 400px;
+align-items: flex-end;
 }
